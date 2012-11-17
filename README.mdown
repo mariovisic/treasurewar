@@ -16,6 +16,20 @@ Inspired by [brains](https://github.com/chrislloyd/brains) - write a bot that fi
 
 Treasure War runs over websockets,
 
+## Developing
+
+Requires coffesscript
+
+### OSX Installation (using homebrew and NPM)
+
+```
+brew install node
+npm install -g coffee-script
+
+# Run server with:
+/usr/local/share/npm/bin/coffee server.coffee
+```
+
 ## Messages
 
 ### The Server
